@@ -1,0 +1,7 @@
+joblib
+fastapi
+pydantic
+scikit-learn
+nltk
+aiosqlite
+
